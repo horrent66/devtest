@@ -1,0 +1,71 @@
+.Main-Div {
+    background-image: url(./assets/main-banner.png);
+    height: ;
+}
+
+.Options-Div {
+    width: 100%;
+    display: flex;
+}
+
+#odiv1 {
+    width: 30%;
+}
+#odiv2 {
+    width: 30%;
+}
+#odiv3 {
+    width: 30%;
+}
+
+h1 {
+    font: Quicksand;
+    font-weight:700 bold;
+    font-size: 45px;
+    color: white
+}
+
+h2 {
+    font: Quicksand;
+    font-weight:500;
+    font-size: 24px;
+    color: #36413C;
+}
+
+h3 {
+    font: Quicksand;
+    font-weight:500;
+    font-size: 24px;
+    color: #5E6E66;
+}
+
+.Learn-More-Primary {
+    font: Quicksand;
+    font-weight:700 bold;
+    font-size: 18px;
+    height: 48px;
+    background-color: #DE6C17;
+    color: azure;
+}
+
+.Learn-More {
+    font: Quicksand;
+    font-weight:700 bold;
+    font-size: 18px;
+    color: #DE6C17;
+}
+
+
+p {
+    font: Quicksand;
+    font-weight:500 ;
+    font-size: 18px;
+}
+
+.H1-Text {    
+    font: Quicksand;
+    font-weight:500 ;
+    font-size: 24px;
+    color: white
+}
+
